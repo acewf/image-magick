@@ -9,7 +9,7 @@
   "author": "inaam husain",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.13.3",
+    "express": "^4.17.3",
     "imagemagick": "^0.1.3"
   }
 }
